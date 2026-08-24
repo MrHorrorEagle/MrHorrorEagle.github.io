@@ -1,0 +1,2 @@
+# O que eu esperava da disciplina e o que entendi que estudaríamos
+Pelo nome da matéria eu esperava algo puramente relacionado a processamento de imagens. Entendi que estudaríamos como imagens e objetos visuais são representados e processados por computadores, desde a manipulação e análise de imagens até a identificação de elementos, representação de objetos em 3D, iluminação, cores e geração de conteúdo visual. 
